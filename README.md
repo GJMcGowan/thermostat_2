@@ -1,5 +1,7 @@
 #Thermostat_2
-My athletic restart of the Thermostat Javascript exercise.  Backend started by me, extended with @stacca and finished off and styled with @gjmcgowan
+Very basic single page thermostat - my contribution to this was mainly styling, however my code for the same project can be found [here](https://github.com/GJMcGowan/thermostat3)
+
+By doing this I learned an enormous amount about CSS and how to style things in general.
 
 ###[iThermo web app on Heroku](http://ithermo.herokuapp.com)
 
